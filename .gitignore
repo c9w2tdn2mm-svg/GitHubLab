@@ -1,0 +1,6 @@
+# Файли macOS
+.DS_Store
+# Налаштування VS Code
+.vscode/
+# Тимчасові файли
+*.tmp
