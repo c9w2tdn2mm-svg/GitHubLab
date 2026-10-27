@@ -9,3 +9,5 @@ Git
 GitHub
 Visual Studio Code
 Markdown
+## Гілка develop
+У цій гілці виконуються додаткові зміни завдання.
